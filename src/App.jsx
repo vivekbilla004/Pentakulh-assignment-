@@ -1,8 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
-import Footer from './components/Footer';
 
-// Import your placeholder pages
+
 import Home from './pages/Home';
 import Industries from './pages/Industries';
 import Pentakuhl from './pages/Pentakuhl';
